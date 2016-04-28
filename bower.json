@@ -1,0 +1,23 @@
+{
+  "name": "mixpolpa",
+  "description": "Mix de Polpa de Frutas",
+  "main": "index.js",
+  "authors": [
+    "Deivid Pinto"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.2",
+    "angular-route": "~1.4.2",
+    "font-awesome": "~4.3.0",
+    "toastr": "~2.1.1"
+  }
+}
